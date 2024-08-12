@@ -13,18 +13,11 @@ Aprendemos ainda mais com a parte de testes e introdução ao TDD no Python - Un
 Type Annotations(Hints) e tipagem de dados.
 Structural Pattern Matching - Padrões estruturais (3.10).<br>
 Desing Patterns (Padrões de projeto (GOF) - POO avançado - Mini cusro a parte.<br>
-_____Mais 5 extras gratis_____<em><br>
+_____Mais 5 extras gratis_____<br>
 *Extra* Expressões regualares com Python - Regex, Módulo re.<br>
 *Extra* Base de dados relacionais com Python - SQL usando MySQL.<br>
 *Extra* HTML 5 e CSS3 (Para iniciantes).<br>
 *Extra* Landing Page com HTML5 e CSS.<br>
 *Extra* Comandos Linus/Unix mais usados(Navegando no terminal).<br>
 </p>
-
-## Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
 
