@@ -1,0 +1,17 @@
+Curso completo de Python contendo bastante aprendizado com muitos exercícios teóricos e práticos. 
+Mesmo não sabendo nada desta liguagem, estou bem satisfeito pois o intrutor sabe passar o conhecimento de forma clara e coesa.
+Inicando com a lógica de programação basica e evoluindo gradativamente, passando para Python intermediário, aprendendo funções,
+dicionários, módulos, programação funcional. Logo após aprendemos a introdução à programação orientada a objetos Python POO(clases)
+Módulos - os, datatime, sys, json, csv, selenium, pillow. Alcançando então PySide6 - Interface gráfica com QT 6 - GUI para desktop.
+Incluindo base de dados com SQLite (sqlite3) MySQL (pymysql).
+Django no Python do básico passsando por 4 projetos reais(Agenda - Primeiro deploy LINUX - Blog - E-Commerce).
+Aprendemos ainda mais com a parte de testes e introdução ao TDD no Python - Unittest.
+Type Annotations(Hints) e tipagem de dados.
+Structural Pattern Matching - Padrões estruturais (3.10).
+Desing Patterns (Padrões de projeto (GOF) - POO avançado - Mini cusro a parte.
+_____Mais 5 extras gratis_____
+*Extra* Expressões regualares com Python - Regex, Módulo re.
+*Extra* Base de dados relacionais com Python - SQL usando MySQL.
+*Extra* HTML 5 e CSS3 (Para iniciantes)
+*Extra* Landing Page com HTML5 e CSS
+*Extra* Comandos Linus/Unix mais usados(Navegando no terminal.
