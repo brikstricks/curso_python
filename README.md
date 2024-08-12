@@ -2,7 +2,6 @@
 Um curso completo
 <h1>O que vamos aprender</h1>
 
-<h2> Sobre</h2>
 <p>Curso completo de Python contendo bastante aprendizado com muitos exercícios teóricos e práticos. 
 Mesmo não sabendo nada desta liguagem, estou bem satisfeito pois o intrutor sabe passar o conhecimento de forma clara e coesa.
 Inicando com a lógica de programação basica e evoluindo gradativamente, passando para Python intermediário, aprendendo funções,
