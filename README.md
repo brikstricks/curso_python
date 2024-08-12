@@ -11,14 +11,14 @@ Incluindo base de dados com SQLite (sqlite3) MySQL (pymysql).
 Django no Python do básico passsando por 4 projetos reais(Agenda - Primeiro deploy LINUX - Blog - E-Commerce).
 Aprendemos ainda mais com a parte de testes e introdução ao TDD no Python - Unittest.
 Type Annotations(Hints) e tipagem de dados.
-Structural Pattern Matching - Padrões estruturais (3.10).
-Desing Patterns (Padrões de projeto (GOF) - POO avançado - Mini cusro a parte.
-_____Mais 5 extras gratis_____
-*Extra* Expressões regualares com Python - Regex, Módulo re.
-*Extra* Base de dados relacionais com Python - SQL usando MySQL.
-*Extra* HTML 5 e CSS3 (Para iniciantes)
-*Extra* Landing Page com HTML5 e CSS
-*Extra* Comandos Linus/Unix mais usados(Navegando no terminal).
+Structural Pattern Matching - Padrões estruturais (3.10).<br>
+Desing Patterns (Padrões de projeto (GOF) - POO avançado - Mini cusro a parte.<br>
+_____Mais 5 extras gratis_____<br>
+*Extra* Expressões regualares com Python - Regex, Módulo re.<br>
+*Extra* Base de dados relacionais com Python - SQL usando MySQL.<br>
+*Extra* HTML 5 e CSS3 (Para iniciantes).<br>
+*Extra* Landing Page com HTML5 e CSS.<br>
+*Extra* Comandos Linus/Unix mais usados(Navegando no terminal).<br>
 </p>
 
 ## Tecnologias
