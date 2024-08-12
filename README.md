@@ -1,4 +1,9 @@
-Curso completo de Python contendo bastante aprendizado com muitos exercícios teóricos e práticos. 
+# Curso de Python
+Um curso completo
+<h1>O que vamos aprender</h1>
+
+<h2> Sobre</h2>
+<p>Curso completo de Python contendo bastante aprendizado com muitos exercícios teóricos e práticos. 
 Mesmo não sabendo nada desta liguagem, estou bem satisfeito pois o intrutor sabe passar o conhecimento de forma clara e coesa.
 Inicando com a lógica de programação basica e evoluindo gradativamente, passando para Python intermediário, aprendendo funções,
 dicionários, módulos, programação funcional. Logo após aprendemos a introdução à programação orientada a objetos Python POO(clases)
@@ -14,4 +19,13 @@ _____Mais 5 extras gratis_____
 *Extra* Base de dados relacionais com Python - SQL usando MySQL.
 *Extra* HTML 5 e CSS3 (Para iniciantes)
 *Extra* Landing Page com HTML5 e CSS
-*Extra* Comandos Linus/Unix mais usados(Navegando no terminal.
+*Extra* Comandos Linus/Unix mais usados(Navegando no terminal).
+</p>
+
+## Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
